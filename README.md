@@ -3,7 +3,7 @@ This project illustrate a key banking operations like account creation, balance 
 
 
 #Concept Covered
-- OOP
+- Object Oriented Programming (OOP)
 - Function
-- conditional statement
+- Conditional statement
 
